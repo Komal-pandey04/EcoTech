@@ -16,6 +16,3 @@ EcoTrack is a platform that helps users monitor and manage eco-friendly activiti
 3. Run the application.
 4. Open it in your browser and start using EcoTrack.
 
-## Author
-
-Komal Pandey
