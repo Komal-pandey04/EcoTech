@@ -9,11 +9,5 @@ EcoTrack is a platform that helps users monitor and manage eco-friendly activiti
 * Organized record management
 * Responsive and user-friendly design
 
-## Getting Started
-
-1. Download the project files.
-2. Install the required dependencies.
-3. Run the application.
-4. Open it in your browser and start using EcoTech.
 
   
